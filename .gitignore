@@ -1,0 +1,7 @@
+/*
+
+!.gitignore
+!gnc/
+gnc/*
+!gnc/controller_INDI.slx
+!gnc/INDI/
