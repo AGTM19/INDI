@@ -5,3 +5,4 @@
 gnc/*
 !gnc/controller_INDI.slx
 !gnc/INDI/
+!README_GIT.txt
